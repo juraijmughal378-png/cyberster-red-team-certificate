@@ -1,69 +1,131 @@
-# 🏆 Cyberster Red Team Internship — Certificate of Completion
+<div align="center">
 
-> **Issued by:** Cyberster &nbsp;|&nbsp; **Instructor:** Ahad &nbsp;|&nbsp; **Duration:** March 2, 2026 – May 24, 2026
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗     ║
+║   ██╔══██╗██╔════╝██╔══██╗       ██║   ██╔════╝██╔══██╗████╗    ║
+║   ██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔██╗   ║
+║   ██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╗  ║
+║   ██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚██╗ ║
+║   ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
+║                                                                  ║
+║         CYBERSTER RED TEAM INTERNSHIP — MISSION COMPLETE        ║
+║                  Operator  : Juraij Sadaqat                     ║
+║                  Instructor : Umar                              ║
+║                  Duration   : March 2, 2026 – May 24, 2026      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+```
+> whoami
+[+] Operator    : Juraij Sadaqat
+[+] Alias       : VulnerabilityHunter_786
+[+] Role        : Red Team Intern — Cyberster
+[+] Instructor  : Umar
+[+] Status      : ✅ MISSION COMPLETE
+[+] Duration    : March 2, 2026 – May 24, 2026
+[+] Location    : Pakistan 🇵🇰
+```
+
+---
+
+```
+> cat mission_brief.txt
+
+[*] OBJECTIVE    : Complete a structured 3-month Red Team Internship
+[*] PROGRAM      : Cyberster Red Team Training
+[*] METHODOLOGY  : Industry-standard ethical offensive security
+[*] OUTCOME      : Certificate of Completion — ISSUED ✅
+```
 
 ---
 
 ## 📜 Certificate of Completion
 
 <p align="center">
-  <img src="Congratulations%20Juraij%20Sadaqat_page-0002.jpg" width="700"/>
+  <img src="Congratulations%20Juraij%20Sadaqat_page-0002.jpg" width="720"/>
 </p>
 
 ---
 
-## 👤 About This Internship
+## ⚔️ Red Team Kill Chain
 
-This repository documents the successful completion of a **3-month professional Red Team Cybersecurity Internship** at **Cyberster**, under the mentorship of instructor **Ahad**.
-
-During this internship, I was immersed in a structured, hands-on Red Team training program designed to simulate real-world offensive security operations. Every week involved practical assignments, technical challenges, and documented reports — all aligned with industry-standard ethical methodologies.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     RED TEAM KILL CHAIN                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [01]  RECONNAISSANCE     →  OSINT & Target Profiling            ║
+║  [02]  SURFACE MAPPING    →  Subdomain & Asset Enumeration       ║
+║  [03]  SCANNING           →  Network & Service Discovery         ║
+║  [04]  WEB EXPLOITATION   →  Burp Suite & Manual Testing         ║
+║  [05]  NETWORK ANALYSIS   →  Wireshark & Traffic Inspection      ║
+║  [06]  VULN ASSESSMENT    →  Risk Identification & Reporting     ║
+║  [07]  REPORTING          →  Professional Security Documentation ║
+╠══════════════════════════════════════════════════════════════════╣
+║  MISSION STATUS : ████████████████████████████  COMPLETE ✅      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🔐 Core Skills Developed
+## 📁 Weekly Operation Logs
 
-| Skill | Tools Used |
-|-------|-----------|
-| Reconnaissance & OSINT | Maltego, theHarvester, Shodan |
-| Attack Surface Mapping | Subfinder, Amass, DNSrecon |
-| Web Application Testing | Burp Suite, OWASP methodology |
-| Network Traffic Analysis | Wireshark, tcpdump |
-| Vulnerability Assessment | Nmap, Nessus, manual testing |
-| Technical Report Writing | Professional security documentation |
+```
+> ls operations/
+```
 
----
+## 🧠 Skill Assessment
 
-## 📁 Weekly Internship Repositories
+```
+> skill --scan --output=visual
 
-| Week | Topic |
-|------|-------|
-| Week 01 | Reconnaissance & Attack Surface Mapping |
-| Week 02 | Network Enumeration & Service Discovery |
-| Week 03 | Web Application Penetration Testing |
-| Week 04 | Exploitation & Initial Access |
-| Week 05 | Post-Exploitation & Privilege Escalation |
-| Week 06 | Lateral Movement & Network Pivoting |
+╔══════════════════════════════════════════════════════════╗
+║              OFFENSIVE SKILL ASSESSMENT                  ║
+╠══════════════════════════════════════════════════════════╣
+║  OSINT & Recon       ████████████████████████  95%  🕵️  ║
+║  Web Pentesting      ████████████████████░░░░  85%  🌐  ║
+║  Network Analysis    ████████████████████░░░░  85%  📡  ║
+║  Attack Mapping      ████████████████████░░░░  85%  🗺️  ║
+║  Vuln Assessment     ████████████████████░░░░  80%  🔍  ║
+║  Security Reporting  ██████████████████░░░░░░  75%  📝  ║
+╠══════════════════════════════════════════════════════════╣
+║  THREAT LEVEL : ████████████████████████  CRITICAL 🔴   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
 ## 📄 Letter of Experience
 
 <p align="center">
-  <img src="Congratulations%20Juraij%20Sadaqat_page-0001.jpg" width="600"/>
+  <img src="Congratulations%20Juraij%20Sadaqat_page-0001.jpg" width="620"/>
 </p>
 
 ---
 
-## 🧠 Key Takeaways
+```
+> cat debrief.txt
 
-- Developed a strong offensive security mindset aligned with real-world Red Team operations
-- Gained practical exposure to tools and techniques used by professional penetration testers
-- Learned to document and communicate technical findings in a clear, professional format
-- Strengthened understanding of attack lifecycles — from reconnaissance to post-exploitation
+[+] Hands-on exposure to real-world Red Team operations
+[+] Mastered full attack lifecycle from recon to reporting  
+[+] Operated under strict ethical and legal boundaries
+[+] Delivered structured weekly technical reports
+[+] Mentored by instructor Ahad throughout the program
+[*] VERDICT : Internship completed with exceptional performance ✅
+```
 
 ---
 
-## 🔗 Connect
+## 🔗 Operator Socials
+
+```
+> connect --operator
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juraij%20Sadaqat-blue?style=flat&logo=linkedin)](https://linkedin.com/in/juraij-sadaqat-b92a4939a)
 [![GitHub](https://img.shields.io/badge/GitHub-juraijmughal378--png-black?style=flat&logo=github)](https://github.com/juraijmughal378-png)
@@ -71,7 +133,17 @@ During this internship, I was immersed in a structured, hands-on Red Team traini
 
 ---
 
-> *"Demonstrated exceptional technical proficiency in security simulations and research,*
-> *while strictly adhering to industry-standard ethical methodologies."*
->
-> — **Umer Imran, Founder & CEO — Cyberster**
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "Every system has a weakness.                      ║
+║    Find it before they do."                          ║
+║                                                      ║
+║              — VulnerabilityHunter_786               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
