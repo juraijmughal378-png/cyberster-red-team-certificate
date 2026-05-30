@@ -1,46 +1,55 @@
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=RED+TEAM+OPERATOR+%7C+CYBERSTER;MISSION+COMPLETE+%E2%9C%85;VulnerabilityHunter_786+%7C+ONLINE+%F0%9F%94%B4)
+
+</div>
+
+---
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗     ║
-║   ██╔══██╗██╔════╝██╔══██╗       ██║   ██╔════╝██╔══██╗████╗    ║
-║   ██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔██╗   ║
-║   ██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╗  ║
-║   ██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚██╗ ║
-║   ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
-║                                                                  ║
-║         CYBERSTER RED TEAM INTERNSHIP — MISSION COMPLETE        ║
-║                  Operator  : Juraij Sadaqat                     ║
-║                  Instructor : Umar                              ║
-║                  Duration   : March 2, 2026 – May 24, 2026      ║
-╚══════════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                            ▓
+▓   ██████╗ ███████╗██████╗     ████████╗███████╗ █████╗    ▓
+▓   ██╔══██╗██╔════╝██╔══██╗       ██║   ██╔════╝██╔══██╗   ▓
+▓   ██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║   ▓
+▓   ██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║   ▓
+▓   ██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║   ▓
+▓   ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝   ▓
+▓                                                            ▓
+▓          [ CYBERSTER RED TEAM — OPERATION CLOSED ]        ▓
+▓                                                            ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
 
 ---
 
-```
-> whoami
-[+] Operator    : Juraij Sadaqat
-[+] Alias       : VulnerabilityHunter_786
-[+] Role        : Red Team Intern — Cyberster
-[+] Instructor  : Umar
-[+] Status      : ✅ MISSION COMPLETE
-[+] Duration    : March 2, 2026 – May 24, 2026
-[+] Location    : Pakistan 🇵🇰
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ whoami
+
+  Operator   : Juraij Sadaqat
+  Alias      : VulnerabilityHunter_786
+  Role       : Red Team Intern
+  Instructor : Umar
+  Duration   : 02 March 2026 – 24 May 2026
+  Status     : ██████████ MISSION COMPLETE ✅
+  Location   : Pakistan 🇵🇰
 ```
 
 ---
 
-```
-> cat mission_brief.txt
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ cat mission_brief.txt
 
-[*] OBJECTIVE    : Complete a structured 3-month Red Team Internship
-[*] PROGRAM      : Cyberster Red Team Training
-[*] METHODOLOGY  : Industry-standard ethical offensive security
-[*] OUTCOME      : Certificate of Completion — ISSUED ✅
+  [*] TARGET     : Master offensive security fundamentals
+  [*] PROGRAM    : Cyberster Red Team Internship
+  [*] APPROACH   : Ethical — industry-standard methodology
+  [*] RESULT     : Certificate of Completion ISSUED 🏆
 ```
 
 ---
@@ -53,39 +62,48 @@
 
 ---
 
-## ⚔️ Red Team Kill Chain
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ cat kill_chain.log
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     RED TEAM KILL CHAIN                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║  [01]  RECONNAISSANCE     →  OSINT & Target Profiling            ║
-║  [02]  SURFACE MAPPING    →  Subdomain & Asset Enumeration       ║
-║  [03]  SCANNING           →  Network & Service Discovery         ║
-║  [04]  WEB EXPLOITATION   →  Burp Suite & Manual Testing         ║
-║  [05]  NETWORK ANALYSIS   →  Wireshark & Traffic Inspection      ║
-║  [06]  VULN ASSESSMENT    →  Risk Identification & Reporting     ║
-║  [07]  REPORTING          →  Professional Security Documentation ║
-╠══════════════════════════════════════════════════════════════════╣
-║  MISSION STATUS : ████████████████████████████  COMPLETE ✅      ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                   RED TEAM KILL CHAIN                         ║
+╠═══════════════════════════════════════════════════════════════╣
+║  [01]  RECON            →  OSINT & Target Profiling      ✅   ║
+║  [02]  ENUM             →  Subdomain & Asset Discovery   ✅   ║
+║  [03]  SCANNING         →  Network & Service Analysis    ✅   ║
+║  [04]  WEB EXPLOIT      →  Burp Suite & Manual Testing   ✅   ║
+║  [05]  NET ANALYSIS     →  Wireshark Traffic Inspection  ✅   ║
+║  [06]  VULN ASSESSMENT  →  Risk Identification           ✅   ║
+║  [07]  REPORTING        →  Professional Security Docs    ✅   ║
+╠═══════════════════════════════════════════════════════════════╣
+║  DETECTION    →  ░░░░░░░░░░░░░░░░░░░░  0 ALERTS 🔕           ║
+║  COMPLETION   →  ████████████████████  100% ✅                ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 📁 Weekly Operation Logs
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ ls -la operations/
 
-```
-> ls operations/
+  drwxr-xr-x  Week-01  Reconnaissance & Attack Surface Mapping   ✅
+  drwxr-xr-x  Week-02  Network Enumeration & Service Discovery   ✅
+  drwxr-xr-x  Week-03  Web Application Penetration Testing       ✅
+  drwxr-xr-x  Week-04  Exploitation & Initial Access             ✅
+  drwxr-xr-x  Week-05  Post-Exploitation & Privilege Escalation  ✅
+  drwxr-xr-x  Week-06  Lateral Movement & Network Pivoting       ✅
 ```
 
-## 🧠 Skill Assessment
+---
 
-```
-> skill --scan --output=visual
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ skill --scan
 
 ╔══════════════════════════════════════════════════════════╗
-║              OFFENSIVE SKILL ASSESSMENT                  ║
+║            OFFENSIVE SKILL ASSESSMENT                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║  OSINT & Recon       ████████████████████████  95%  🕵️  ║
 ║  Web Pentesting      ████████████████████░░░░  85%  🌐  ║
@@ -94,7 +112,7 @@
 ║  Vuln Assessment     ████████████████████░░░░  80%  🔍  ║
 ║  Security Reporting  ██████████████████░░░░░░  75%  📝  ║
 ╠══════════════════════════════════════════════════════════╣
-║  THREAT LEVEL : ████████████████████████  CRITICAL 🔴   ║
+║  THREAT LEVEL  →  ████████████████████  CRITICAL 🔴     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -108,28 +126,34 @@
 
 ---
 
-```
-> cat debrief.txt
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ cat debrief.txt
 
-[+] Hands-on exposure to real-world Red Team operations
-[+] Mastered full attack lifecycle from recon to reporting  
-[+] Operated under strict ethical and legal boundaries
-[+] Delivered structured weekly technical reports
-[+] Mentored by instructor Ahad throughout the program
-[*] VERDICT : Internship completed with exceptional performance ✅
+  [+] Full Red Team attack lifecycle — recon to reporting
+  [+] Real-world offensive security tools & techniques
+  [+] Strict ethical & legal boundaries maintained
+  [+] Weekly structured technical reports delivered
+  [+] Mentored by instructor Umar — Cyberster
+  [+] 0 detections. 0 violations. 100% ethical. ✅
+
+  [*] FINAL VERDICT : MISSION COMPLETE — CERTIFICATE ISSUED 🏆
 ```
 
 ---
 
-## 🔗 Operator Socials
-
+```bash
+┌──(VulnerabilityHunter_786㉿cyberster)-[~/red-team]
+└─$ connect --operator
 ```
-> connect --operator
-```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juraij%20Sadaqat-blue?style=flat&logo=linkedin)](https://linkedin.com/in/juraij-sadaqat-b92a4939a)
-[![GitHub](https://img.shields.io/badge/GitHub-juraijmughal378--png-black?style=flat&logo=github)](https://github.com/juraijmughal378-png)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://juraijmughal378-png.github.io/juraij-cyber-portfolio/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juraij%20Sadaqat-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juraij-sadaqat-b92a4939a)
+[![GitHub](https://img.shields.io/badge/GitHub-juraijmughal378--png-181717?style=for-the-badge&logo=github)](https://github.com/juraijmughal378-png)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF00?style=for-the-badge&logo=google-chrome)](https://juraijmughal378-png.github.io/juraij-cyber-portfolio/)
+
+</div>
 
 ---
 
@@ -138,12 +162,14 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   "Every system has a weakness.                      ║
-║    Find it before they do."                          ║
+║    "Every system has a weakness.                     ║
+║     Find it before they do."                         ║
 ║                                                      ║
-║              — VulnerabilityHunter_786               ║
+║             — VulnerabilityHunter_786 ☠️             ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+![](https://komarev.com/ghpvc/?username=juraijmughal378-png&color=00ff00&style=flat&label=PROFILE+VIEWS)
 
 </div>
